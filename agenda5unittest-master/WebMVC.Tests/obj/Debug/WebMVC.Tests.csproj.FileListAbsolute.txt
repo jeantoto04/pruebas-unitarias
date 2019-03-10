@@ -1,0 +1,201 @@
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\ApplicationInsights.config
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\csc.exe
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\vbc.exe
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\WebMVC.Tests.dll.config
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\WebMVC.Tests.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\WebMVC.Tests.pdb
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Helpers.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Mvc.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Razor.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.WebPages.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\WebMVC.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Optimization.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Owin.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\EntityFramework.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\WebMVC.pdb
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Helpers.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Mvc.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Razor.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.WebPages.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\System.Web.Optimization.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\EntityFramework.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.Security.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\EntityFramework.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\obj\Debug\WebMVC.Tests.csprojResolveAssemblyReference.cache
+C:\GITLAB\UnitTest\WebMVC.Tests\obj\Debug\WebMVC.Tests.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\obj\Debug\WebMVC.Tests.pdb
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Domain.dll
+C:\GITLAB\UnitTest\WebMVC.Tests\bin\Debug\Domain.pdb
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\ApplicationInsights.config
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\csc.exe
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\vbc.exe
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\WebMVC.Tests.dll.config
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\WebMVC.Tests.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\WebMVC.Tests.pdb
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Domain.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Helpers.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Mvc.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Razor.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.WebPages.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\WebMVC.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Optimization.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Owin.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\EntityFramework.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Domain.pdb
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\WebMVC.pdb
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Helpers.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Mvc.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Razor.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.WebPages.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\System.Web.Optimization.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\EntityFramework.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.Security.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\EntityFramework.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\obj\Debug\WebMVC.Tests.csprojResolveAssemblyReference.cache
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\obj\Debug\WebMVC.Tests.dll
+D:\UCAGitlab\agenda5unittest\WebMVC.Tests\obj\Debug\WebMVC.Tests.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\WebMVC.Tests.dll.config
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\WebMVC.Tests.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\WebMVC.Tests.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Domain.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\WebMVC.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Owin.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\EntityFramework.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Domain.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\WebMVC.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\EntityFramework.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\bin\Debug\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\obj\Debug\WebMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\obj\Debug\WebMVC.Tests.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\WebMVC.Tests\obj\Debug\WebMVC.Tests.pdb

@@ -1,0 +1,9 @@
+C:\GITLAB\UnitTest\Domain\bin\Debug\Domain.dll
+C:\GITLAB\UnitTest\Domain\bin\Debug\Domain.pdb
+C:\GITLAB\UnitTest\Domain\obj\Debug\Domain.dll
+C:\GITLAB\UnitTest\Domain\obj\Debug\Domain.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\Domain\bin\Debug\Domain.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\Domain\bin\Debug\Domain.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\Domain\obj\Debug\Domain.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\Domain\obj\Debug\Domain.pdb

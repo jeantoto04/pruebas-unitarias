@@ -1,0 +1,9 @@
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\bin\Debug\Domain.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\bin\Debug\Domain.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\5\agenda5unittest-master\DomainTests\obj\Debug\DomainTests.pdb
